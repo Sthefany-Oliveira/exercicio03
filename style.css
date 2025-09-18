@@ -1,0 +1,14 @@
+.tt{
+    border: 4px rgb(136, 8, 8) solid; /* borda e a grosura dela*/
+    width: 500px; /* largura*/
+    margin-left: 490px; /* espaçamento pra esquerda*/
+    padding:20px ; /*ele deu o espaçamento entre o conteúdo e a borda*/
+    border-radius: 9px;/* a curvatura da borda*/
+}
+
+.dd{
+    background-color: rgb(139, 6, 6);
+}
+.oo{
+    background-color: rgb(153, 211, 245);
+}
